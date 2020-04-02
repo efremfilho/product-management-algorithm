@@ -5,6 +5,10 @@ Para quem é tarado por algoritmo mesmo no mundo do no/low code. Como gerir faze
 #nocode #lowcode
 
 ```javascript
+
+importe JTBD do "mundo-real" // Instanciando Job to be done
+
+
 //Para todo novo JTBD, chamar a função
 aprender(JTBD) {
   enquanto(não tiver escala ou tiver caixa) {
