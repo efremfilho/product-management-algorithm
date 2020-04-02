@@ -1,3 +1,5 @@
+
+# pt_br
 Para quem é tarado por algoritmo mesmo no mundo do no/low code. Como gerir fazer a gestão de produto.
 
 #nocode #lowcode
