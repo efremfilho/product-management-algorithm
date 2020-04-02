@@ -4,9 +4,9 @@ Para quem é tarado por algoritmo mesmo no mundo do no/low code. Como a gestão 
 
 #nocode #lowcode
 
-```javascript
+```
 
-importe JTBD do "mundo-real" // Instanciando Job to be done
+importe JTBD do "mundo-real"; // Instanciando Job to be done
 
 aprender(JTBD do "mundo-real");
 
